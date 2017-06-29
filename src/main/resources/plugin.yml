@@ -1,0 +1,5 @@
+name: Reclaimer
+main: me.rigbyrigby.reclaimer.Reclaimer
+author: rigbys
+version: ${project.version}
+depend: [Vault]
